@@ -22,10 +22,12 @@
 
 # emit
 🔊 transmit
+
 📡 connect
 
 ---
 
 # convention:
 🗄️ file structure:
+
 🗣️ naming: <proword>_<language>.<type>
