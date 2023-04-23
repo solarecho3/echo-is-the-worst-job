@@ -21,4 +21,11 @@
 - observe and report
 
 # emit
-📡 talk
+🔊 transmit
+📡 connect
+
+---
+
+# convention:
+🗄️ file structure:
+🗣️ naming: <proword>_<language>.<type>
