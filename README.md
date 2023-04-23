@@ -30,4 +30,4 @@
 # convention:
 🗄️ file structure:
 
-🗣️ naming: <proword>_<language>.<type>
+🗣️ naming: [proword]_[language].[type]
